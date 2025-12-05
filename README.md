@@ -1,1 +1,1 @@
-# gesture-based-number-parity
+# Gesture-based-number-parity
